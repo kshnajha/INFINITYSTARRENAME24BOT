@@ -2,10 +2,10 @@
 from os import environ
 import os
 
-API_ID = int(os.environ.get("API_ID", "10811400"))
-API_HASH = os.environ.get("API_HASH", "191bf5ae7a6c39771e7b13cf4ffd1279")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6487202001:AAEHi58S7R8wVf99IaTqBVlmQo-lzyn7QsU")
-ADMIN = int(os.environ.get("ADMIN", "6469754522")) 
+API_ID = int(os.environ.get("API_ID", "20577207"))
+API_HASH = os.environ.get("API_HASH", "40b5e72e7b9607c2e5563fff5c7b0a37")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7565764530:AAEL4R6MgzIGAG0sv1mtUFUNp7hd74_j8zc")
+ADMIN = int(os.environ.get("ADMIN", "2041855080")) 
 FSUB_CHANNEL = os.environ.get("FSUB_CHANNEL", "Sunrises24BotUpdates")
 CAPTION = os.environ.get("CAPTION", "")
 #ALL FILES UPLOADED - CREDITS 🌟 - @Sunrises_24
